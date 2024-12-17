@@ -1,0 +1,5 @@
+yfinance
+matplotlib
+pandas
+tabulate
+tqdm
